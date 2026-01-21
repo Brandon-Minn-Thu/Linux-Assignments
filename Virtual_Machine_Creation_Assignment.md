@@ -39,6 +39,23 @@ Next, we had to choose Image, VM architecture, and Size. This is where I started
 __Size__: **standard B2ls v2 (2 vcpus, 4 GiB memory)**.
 
 For __Authentication type__ I chose **SSH public key** and for __Username__ I chose **azureuser**. I name the __Key pair name__ the same as my VM name. I downloaded the .pem file for the key and followed the required steps.
+## Pictures
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.47.17 PM.png>)
+
+![](<Screenshots/Screenshot 2026-01-16 at 1.47.19 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.47.26 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.51.50 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.55.35 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.56.26 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 1.56.30 PM.png>)
+
+![alt text](<Screenshots/Screenshot 2026-01-16 at 2.34.11 PM.png>)
 
 ## Errors and challenges
 
