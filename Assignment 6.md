@@ -23,7 +23,7 @@ This command displays the installed version of **APT** (Advanced Package Tool).
 APT is the package manager used in Ubuntu-based systems.
 
 
-```2. Update Package List```
+``2. Update Package List``
 ```bash
 sudo apt update
 ```
@@ -35,7 +35,7 @@ Purpose:
 
 - Does NOT install or upgrade any software
 
-3. Upgrade Installed Packages
+``3. Upgrade Installed Packages``
 ```bash
 sudo apt upgrade -y
 ```
