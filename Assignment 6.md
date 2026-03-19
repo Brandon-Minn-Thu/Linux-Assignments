@@ -100,22 +100,22 @@ apt show gimp
 Explanation:
 These dependencies are required for:
 
-Graphical rendering
+- Graphical rendering
 
-Image processing
+- Image processing
 
-File format support
+- File format support
 
-System integration
+- System integration
 
 ```3. Install the Package```
 ```bash
 sudo apt install gimp -y
 ```
 Verify Installation:
-
+```
 gimp --version
-
+```
 Output Example:
 
 GNU Image Manipulation Program version 2.10.36
@@ -170,11 +170,11 @@ sudo apt clean
 ```
 Explanation:
 
-Deletes downloaded package cache files
+- Deletes downloaded package cache files
 
-Frees disk space
+- Frees disk space
 
-Keeps the system tidy
+- Keeps the system tidy
 
 ## Part 4: Managing Repositories & Troubleshooting
 ``1. List APT Repositories``
@@ -184,6 +184,7 @@ cat /etc/apt/sources.list
 Note:
 In Ubuntu 24.04 (Noble), repositories are managed using the newer deb822 format.
 They are stored in:
+
 ```bash
 /etc/apt/sources.list.d/
 ```
@@ -240,7 +241,7 @@ Result:
 
 gimp set on hold
 - Unhold a Package
-```
+```bash
 sudo apt-mark unhold gimp
 ```
 **Why Hold a Package?**
