@@ -50,11 +50,6 @@ Simple:
 - ```update``` = check
 - ```upgrade```= install
 
-Simple Explanation:
-
-update = check
-
-upgrade = install
 
 ```4. View Pending Updates```
 ```bash
